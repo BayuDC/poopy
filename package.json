@@ -1,0 +1,12 @@
+{
+  "name": "poopy",
+  "version": "1.0.0",
+  "description": "Show poop in your javascript console",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": "https://github.com/BayuDC/poopy",
+  "author": "BayuDC <dev.bayudc@gmail.com>",
+  "license": "MIT"
+}
